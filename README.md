@@ -13,13 +13,13 @@
 全球登⼭者登⼭軌資料庫
 
 # 分析原理與驗證
-關聯式分析、回歸分析
+關聯式分析、回歸分析<br>
 資料正規化
 資料視覺化
 
 # 使用程式語言與套件
-python
-pandas、numpy
+python<br>
+pandas、numpy<br>
 
 # 實作流程
 01 百岳及Hikingbook數據清洗
